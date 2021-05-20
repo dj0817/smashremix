@@ -372,6 +372,33 @@ _Random Toggles for All Stages_ | On                 | Off*              | On
 - Yoshi's Island DL
 - Planet Zebes DL
 
+Fighters
+
+Mario
+Donkey Kong
+Link
+Samus
+Yoshi
+Kirby
+Fox
+Pikachu
+Luigi
+Ness
+Captain Falcon
+Jigglypuff
+
+Custom Fighters
+Dr. Mario
+Young Link
+Dark Samus
+Wario
+Lucas
+Bowser
+Wolf
+Conker
+Ganondorf
+Falco
+
 Future Fighters for Smash Remix
 
 Pichu
