@@ -371,3 +371,7 @@ _Random Toggles for All Stages_ | On                 | Off*              | On
 - Saffron City O
 - Yoshi's Island DL
 - Planet Zebes DL
+
+Future Fighters for Smash Remix
+
+Pichu
