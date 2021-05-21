@@ -1,5 +1,5 @@
 # Smash Remix
-*A Super Smash Bros. 64 Mod Organized by The_Smashfather*
+*A Super Smash Bros. 64 Mod Organized by Dj0817*
 
 ## Building
 ### THIS IS ONLY FOR THOSE INTERESTED IN THE SOURCE CODE OF THE MOD. PLEASE DOWNLOAD THE RELEASE VERSION BY CLICKING THE RELEASE TAB.
