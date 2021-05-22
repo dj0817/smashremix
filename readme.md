@@ -398,6 +398,7 @@ Wolf
 Conker
 Ganondorf
 Falco
+Mad Piano
 
 Future Fighters for Smash Remix
 
